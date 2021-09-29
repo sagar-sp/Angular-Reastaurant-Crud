@@ -1,0 +1,43 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "name": "Sagar",
+      "email": "sagarpatil23399@gmail.com",
+      "mobile": 9822913404,
+      "address": "Sai Sagar",
+      "services": "Biryani"
+    },
+    {
+      "id": 3,
+      "name": "Test",
+      "email": "Test@gmail.com",
+      "mobile": 9898565228,
+      "address": "Mumbai",
+      "services": "Chole"
+    },
+    {
+      "id": 4,
+      "name": "sagarpat",
+      "email": "sagarpatil23399@gmail.com",
+      "mobile": 9822913404,
+      "address": "dkskd",
+      "services": "asasasasas"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
